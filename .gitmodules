@@ -1,0 +1,3 @@
+[submodule "day-02/php-basic-project"]
+	path = day-02/php-basic-project
+	url = https://github.com/shakhawatsabbir/php-basic-project.git
