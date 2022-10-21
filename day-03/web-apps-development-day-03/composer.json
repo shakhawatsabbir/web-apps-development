@@ -1,0 +1,14 @@
+{
+  "name": "web-apps-development-day-03/web-apps-development-day-03",
+  "type": "project",
+  "description": "A simple project",
+  "keywords": [],
+  "license": "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
