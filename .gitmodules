@@ -2,3 +2,6 @@
 	path = day-03/web-apps-development-day-03
 	url = https://github.com/shakhawatsabbir/web-apps-development-day-03.git
 
+[submodule "day-04/PHP-Statement-Work"]
+	path = day-04/PHP-Statement-Work
+	url = https://github.com/shakhawatsabbir/PHP-Statement-Work.git
