@@ -6,3 +6,6 @@
 	path = day-04/PHP-Statement-Work
 	url = https://github.com/shakhawatsabbir/PHP-Statement-Work.git
 
+[submodule "day-04 test/php-array-statement"]
+	path = day-04 test/php-array-statement
+	url = https://github.com/shakhawatsabbir/php-array-statement.git
