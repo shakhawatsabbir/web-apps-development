@@ -9,3 +9,6 @@
 [submodule "day-04 test/php-array-statement"]
 	path = day-04 test/php-array-statement
 	url = https://github.com/shakhawatsabbir/php-array-statement.git
+[submodule "day-04 test/Create-php-basic-calculator"]
+	path = day-04 test/Create-php-basic-calculator
+	url = https://github.com/shakhawatsabbir/Create-php-basic-calculator.git
