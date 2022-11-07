@@ -12,3 +12,6 @@
 [submodule "day-04 test/Create-php-basic-calculator"]
 	path = day-04 test/Create-php-basic-calculator
 	url = https://github.com/shakhawatsabbir/Create-php-basic-calculator.git
+[submodule "day-07/create-simple-blog-site"]
+	path = day-07/create-simple-blog-site
+	url = https://github.com/shakhawatsabbir/create-simple-blog-site.git
