@@ -1,0 +1,60 @@
+.menu{
+    margin-top: 20px;
+}
+.title{
+    margin-bottom: 30px;
+}
+.div{
+    height: 420px;
+    width: 300px;
+    border: 1px solid red;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.div1{
+    height: auto;
+    width: 800px;
+    border: 1px solid red;
+    margin:auto;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 100%;
+
+}
+.btn-blog{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.btn-blog:hover{
+    border: 1px solid red;
+    color: red;
+    background-color: white;
+}
+.btn-menu{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-left:20px;
+    margin-top: 20px;
+}
+
+.btn-menu:hover{
+    border: 1px solid red;
+    color: red;
+    background-color: white;
+}
+
